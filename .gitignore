@@ -1,11 +1,13 @@
+# Folders
+bin
+pkg
+_obj
+_test
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
 *.so
-
-# Folders
-_obj
-_test
 
 # Architecture specific extensions/prefixes
 *.[568vq]
